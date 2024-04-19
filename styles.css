@@ -18,7 +18,12 @@ body {
 }
 
 input,
+select,
 button {
     letter-spacing: 2px;
+}
+
+#spinner {
+    display: none;
 }
 
