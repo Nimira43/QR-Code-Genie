@@ -3,7 +3,7 @@
 
 body {
     width: 100%;
-    height: 100vh;
+    /* height: 100vh; */
     font-family: 'Smooch Sans', sans-serif;
     background: linear-gradient(
         rgba(0, 0, 0, 0.95),
@@ -14,5 +14,11 @@ body {
 
 .logo {
     font-family: 'Long Cang', cursive;
-    letter-spacing: 1px;
+    letter-spacing: 2px;
 }
+
+input,
+button {
+    letter-spacing: 2px;
+}
+
