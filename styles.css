@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Smooch+Sans:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Long+Cang&display=swap');
 
 body {
     width: 100%;
@@ -9,4 +10,9 @@ body {
         rgba(0, 0, 0, 0.92)),
         url('./img/bg.jpg') no-repeat center;
     background-size: cover;
+}
+
+.logo {
+    font-family: 'Long Cang', cursive;
+    letter-spacing: 1px;
 }
