@@ -28,9 +28,14 @@ button {
 }
 
 #qrcode {
-    background-color: beige;
-    padding: 8px;
+    background-color: #3182ce;
+    padding: 40px;
+    border: 10px solid #e53e3e;
     border-radius: 8px;
-    margin-bottom: 30px;
+    margin-bottom: 90px;   
+}
+
+#save-link {
+    margin-bottom: 90px;
 }
 
